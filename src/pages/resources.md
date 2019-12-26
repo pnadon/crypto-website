@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Resources
+title: Resources -mohana
 ---
 For more challenges and to continue with this adventure of solving ciphers, these are some cool places to get you started
 
