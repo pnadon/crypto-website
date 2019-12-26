@@ -1,4 +1,4 @@
 ---
-title: 'Posts Archive'
+title: 'Challenges'
 layout: 'layouts/archive.njk'
 ---
