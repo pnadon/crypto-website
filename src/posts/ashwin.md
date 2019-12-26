@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Ashwin
 metaTitle: Hello Everybody!!!
 metaDesc: Geographic Challenge
-socialImage: /images/demo-image-1.jpg
+socialImage: ''
 date: 2019-12-26T19:21:17.704Z
 tags:
   - Crypto
