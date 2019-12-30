@@ -1,9 +1,15 @@
 .intro {
-  background: var(--color-theme-highlight-block);
+  $background: var(--color-theme-highlight-block);
+  background: $background;
+
+  &::after {
+    border-top: 1em solid red;
+  }
 
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
+    color: #{get-color('light')};
 
     a {
       color: currentColor;
