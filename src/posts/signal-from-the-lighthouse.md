@@ -22,6 +22,8 @@ Recalling your experience with cipher before the war broke out, you realize that
 
 # Solving the Challenge
 
+**MAKE SURE TO LOOK AT THE [RESOURCES](/resources) SECTION OF THE WEBSITE!!**
+
 Since this is the Cryptography Challenge, the goal is to decipher an encrypted message. Using the decription above, along with the hints it provides, attempt to decipher hidden message, and submit it in the form below:
 
 [SUBMIT HERE](https://forms.gle/aUWd9i1rWGtPYdjs6)
