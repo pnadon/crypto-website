@@ -5,8 +5,7 @@ date: 2020-01-05T16:38:17.155Z
 tags:
   - February easy
 ---
-![lighthouse](/images/deserted_lighthouse.jpg "lighthouse")
-
+![lighthouse](https://www.dropbox.com/s/siy8ynegyqvc066/deserted_lighthouse.jpg?raw=1)
 # Challenge
 
 You are one of the few remaining humans on Earth. On an uneventful night, you sit still and observe the dusty dunes of what used to be a lake; evaporated from the nuclear blasts. The light from the lighthouse far away on the hill looking out onto the dunes is the only distraction to your eyes.
@@ -24,3 +23,5 @@ Recalling your experience with cipher before the war broke out, you realize that
 # Solving the Challenge
 
 Since this is the Cryptography Challenge, the goal is to decipher an encrypted message. Using the decription above, along with the hints it provides, attempt to decipher hidden message, and submit it in the form below:
+
+[SUBMIT HERE](https://forms.gle/aUWd9i1rWGtPYdjs6)
