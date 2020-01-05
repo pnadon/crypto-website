@@ -7,6 +7,7 @@ This challenge was designed and developed by a group of students at the Universi
 
 ### Philippe Nadon
 
+- nadon@ualberta.ca
 - Team Coordinator / Leader
 - Designed visuals for challenges, posters
 - Built and maintained website (hosting, deployment, publishing)
