@@ -6,7 +6,7 @@ archiveButtonText: See all challenges
 socialImage: ''
 ---
 # Leaderboard
-![leaderboard](https://www.dropbox.com/s/m1c29g2y9tnjtvy/toucan.jpg?raw=1 "Leaderboard")
+![leaderboard](https://www.dropbox.com/s/m1c29g2y9tnjtvy/toucan.jpg?raw=1 "Leaderboard") 
 
 # Introduction
 
