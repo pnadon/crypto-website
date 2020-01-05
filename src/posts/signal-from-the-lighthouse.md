@@ -3,7 +3,8 @@ layout: layouts/post.njk
 title: Signal from the Lighthouse
 date: 2020-01-05T16:38:17.155Z
 tags:
-  - ''
+  - February
+  - easy
 ---
 ![lighthouse](https://www.dropbox.com/s/siy8ynegyqvc066/deserted_lighthouse.jpg?raw=1)
 # Challenge
