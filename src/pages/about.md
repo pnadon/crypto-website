@@ -26,8 +26,8 @@ This challenge was designed and developed by a group of students at the Universi
 
 ### Nishta Pant
 
-- Led development of Story
-- Managed Facebook Group
+- Led development of story
+- Managed Facebook group
 
 ### Tristan Laurence
 
