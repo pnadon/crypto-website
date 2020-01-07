@@ -10,7 +10,7 @@ socialImage: ''
 
 # Introduction
 
-The University of Alberta Cryptography Challenge is designed by UAlberta Students to motivate others to become more interested in ciphers and encryption. The challenge is designed to be approachable from any skill level, yet offer enough difficulty to keep those with experience interested.
+The Cryptography Challenge is designed by University of Alberta Students to motivate others to become more interested in ciphers and encryption. The challenge is designed to be approachable from any skill level, yet offer enough difficulty to keep those with experience interested.
 
 Make sure to check out [the Resources section](/resources) for help with any cipher used in the challenges.
 
