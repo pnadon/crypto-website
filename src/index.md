@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to the UoA Crypto Challenge
+title: Welcome to the Crypto Challenge
 postsHeading: Latest Challenges
 archiveButtonText: See all challenges
 socialImage: ''
