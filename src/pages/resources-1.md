@@ -7,6 +7,7 @@ Here is a list of resources for various ciphers: All of the ciphers used in the 
 
 # Morse Code
 [Link to what it is and how it works](https://www.cryptomuseum.com/radio/morse/)
+
 Example:
 `.... .. ....... - .... . .-. .` becomes `hi there`
 
@@ -21,7 +22,7 @@ Example:
 
 # Homophonic Substitution Cipher
 
-[Link to how it works](http://pi.math.cornell.edu/~mec/2003-2004/cryptography/polyalpha/polyalpha.html)# Homophonic Substitution Cipher
+[Link to how it works](http://pi.math.cornell.edu/~mec/2003-2004/cryptography/polyalpha/polyalpha.html)
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/homophonic-substitution/)
 
 # Baconian Cipher
