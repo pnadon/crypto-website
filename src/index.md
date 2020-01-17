@@ -5,6 +5,8 @@ postsHeading: Latest Challenges
 archiveButtonText: See all challenges
 socialImage: ''
 ---
+If you haven't already, sign up with this link: [bit.ly/uoacrypto](https://bit.ly/uoacrypto)!
+
 # Leaderboard
 
 `The leaderboard is currently not available, check back after Part 1 is done!`
