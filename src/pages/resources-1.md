@@ -9,7 +9,8 @@ Here is a list of resources for various ciphers: All of the ciphers used in the 
 [Link to what it is and how it works](https://www.cryptomuseum.com/radio/morse/)
 
 Example:
-`.... .. ....... - .... . .-. .` becomes `hi there`
+- Ciphertext: `.... .. ....... - .... . .-. .` 
+- Message: `hi there`
 
 # Polyalphabetic Ciphers
 [Link to what it is](https://medium.com/blockgeeks-blog/cryptography-for-dummies-part-3-polyalphabetic-ciphers-c6fbefa3f06c)
