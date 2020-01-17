@@ -7,13 +7,15 @@ socialImage: ''
 ---
 # Leaderboard
 
-\- The leaderboard is currently not available, check back after Part 1 is done!
+`The leaderboard is currently not available, check back after Part 1 is done!`
 
 # Introduction
 
 The Cryptography Challenge is designed by University of Alberta Students to motivate others to become more interested in ciphers and encryption. The challenge is designed to be approachable from any skill level, yet offer enough difficulty to keep those with experience interested.
 
 Make sure to check out [the Resources section](/resources) for help with any cipher used in the challenges.
+
+Also check out the [the About page](/about) for details on how the challenge is being run!
 
 # Story
 
