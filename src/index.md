@@ -6,7 +6,8 @@ archiveButtonText: See all challenges
 socialImage: ''
 ---
 # Leaderboard
-![leaderboard](https://www.dropbox.com/s/m1c29g2y9tnjtvy/toucan.jpg?raw=1 "Leaderboard")
+
+\- The leaderboard is currently not available, check back after Part 1 is done!
 
 # Introduction
 
@@ -29,7 +30,3 @@ It is assumed that reinforcements will soon arrive (around 3 months) to rescue t
 You are one of the surviving humans on Earth, who is involved in a group who is attempting to save humanity, by scouting out potential solutions to the incoming alien invasion. Since the aliens do not seem to understand the concept of encryption and secrecy, your group has decided to use basic (pre-computer) ciphers to communicate secret messages between each other.
 
 Many members of your group have been attacked by aliens, however some have left clues to their findings as a precaution. You are to seek out and find these clues, so that you may save the human race.
-
-
-
-
