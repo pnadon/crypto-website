@@ -24,6 +24,7 @@ Example:
 
 [Link to how it works](http://pi.math.cornell.edu/~mec/2003-2004/cryptography/polyalpha/polyalpha.html)
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/homophonic-substitution/)
+
 Example:
 - Message: `DEFEND THE EAST WALL OF THE CASTLE`
 - Ciphertext: `F7EZ5F UC2 1DR6 M9PP 0E 6CZ SD4UP1`
@@ -31,6 +32,7 @@ Example:
 # Baconian Cipher
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/baconian/
 )
+
 Example (full example is too long):
 - Key: `STRIKE NOW`
 - Ciphertext: `Hold OFf uNtIl you hEar frOm mE agAin. wE May cOMpROmIse`
@@ -38,6 +40,7 @@ Example (full example is too long):
 # Caesar Cipher
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/caesar/
 )
+
 Example:
 - Key: 1
 - Ciphertext: `efgfoe uif fbtu xbmm pg uif dbtumf`
@@ -47,17 +50,27 @@ Example:
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/polybius-square/
 )
 
+Example:
+- Key:
+```
+   A B C D E
+A| p h q g m
+B| e a y l n
+C| o f d x k
+D| r c v s z
+E| w b u t i
+```
+- Ciphertext: `defend the east wall of the castle`
+- Message: `CCBACBBABECC EDABBA BABBDDED EABBBDBD CACB EDABBA DBBBDDEDBDBA`
+
 # Autokey Cipher
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/autokey/)
 
-# Hill Cipher
-[Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/hill/)
-
-# Porta Cipher
-[Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/porta/)
-
-# Codes and Nomenclators Cipher
-[Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/codes-and-nomenclators/)
+Example would be too large, see link
 
 # Fractionated Morse Cipher
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/fractionated-morse/)
+
+Example:
+- Message: `defend the east`
+- Ciphertext: `-..x.x..-.x.x-.x-..xx-x....x.xx.x.-x...x-x`
