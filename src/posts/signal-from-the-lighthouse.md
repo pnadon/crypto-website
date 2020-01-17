@@ -13,11 +13,11 @@ You are one of the few remaining humans on Earth. On an uneventful night, you si
 
 You observe that the light from the lighthouse sweeps past your vision in a strangely periodic manner: quickly twice, double blink, then once…then pause,  quickly twice then pause... once, double blink, once…then pause and once again. This cycle repeats continuously. Seeing as this is a strange event, you jot down the pattern, and head back to your tent for the night.
 
-`..-. ...-. .`
+`..-. .. .-. .`
 
 The next morning, you wake up and pack your things in preparation to continue your journey. As you walk past the same spot where you observed the lighthouse last night, you notice its light is fixated on a small stone slab out in the dunes. Curious, you walk over and observe letters on the slab, however they don't appear to resemble anything meaningful:
 
-`LAGR RRYMZQGZYN KJKT HTRJJNY DFYOU JJJ YAQRJJ`
+`KZFQ QQXLYPFYXM JIJS GSQIIMX CEXNTIII XZPQII`
 
 Recalling your experience with cipher before the war broke out, you realize that this gibberish is probably an encrypted message, which requires a "key" to decipher. You pause in your journey to ponder how you could crack this code...
 
