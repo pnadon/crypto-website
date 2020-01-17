@@ -26,7 +26,7 @@ Example:
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/homophonic-substitution/)
 Example:
 - Message: `DEFEND THE EAST WALL OF THE CASTLE`
-- Ciphertext `F7EZ5F UC2 1DR6 M9PP 0E 6CZ SD4UP1`
+- Ciphertext: `F7EZ5F UC2 1DR6 M9PP 0E 6CZ SD4UP1`
 
 # Baconian Cipher
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/baconian/
