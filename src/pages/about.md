@@ -38,10 +38,12 @@ This challenge was designed and developed by a group of students at the Universi
 - Team Coordinator / Leader
 - Designed visuals for challenges, posters
 - Built and maintained website (hosting, deployment, publishing)
+- Led development of story, point system, challenges
+- Responsible for outreach and connections on Augustana Campus
 
 ### Ashwin Mahesh
 
-- Led development of point system
+- Led development of point system, worked on harder challenges
 
 ### Hussain Chitalwala
 
@@ -55,7 +57,8 @@ This challenge was designed and developed by a group of students at the Universi
 
 - Led development of story
 - Managed Facebook group
+- Helped with outreaching
 
 ### Tristan Laurence
 
-- Responsible for outreaching at Augustana campus, management of promotional material
+- Assisted in point system
