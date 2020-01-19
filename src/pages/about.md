@@ -32,33 +32,33 @@ The minimum number of points required to enter each tier are:
 
 This challenge was designed and developed by a group of students at the University of Alberta. All contributed to the development of the challenges themselves, the point system, and the story:
 
-### Philippe Nadon
-
+## Philippe Nadon
+﻿
 - nadon@ualberta.ca
 - Team Coordinator / Leader
 - Designed visuals for challenges, posters
 - Built and maintained website (hosting, deployment, publishing)
 - Led development of story, point system, challenges
 - Responsible for outreach and connections on Augustana Campus
-
-### Ashwin Mahesh
-
+﻿
+## Ashwin Mahesh
+﻿
 - Led development of point system, worked on harder challenges
-
-### Hussain Chitalwala
-
-- Led development of point system
-
-### Mohana Talasila
-
-- Responsible for outreaching, connecting event with other clubs, etc.
-
-### Nishta Pant
-
+﻿
+## Nishta Pant
+﻿
 - Led development of story
 - Managed Facebook group
 - Helped with outreaching
-
-### Tristan Laurence
-
+﻿
+## Hussain Chitalwala
+﻿
+- Led development of point system
+﻿
+## Mohana Talasila
+﻿
+- Responsible for outreaching, connecting event with other clubs, etc.
+﻿
+## Tristan Laurence
+﻿
 - Assisted in point system
