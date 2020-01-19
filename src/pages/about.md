@@ -40,17 +40,18 @@ This challenge was designed and developed by a group of students at the Universi
 - Built and maintained website (hosting, deployment, publishing)
 - Led development of story, point system, challenges
 - Responsible for outreach and connections on Augustana Campus
-﻿
-## Ashwin Mahesh
-﻿
-- Led development of point system, worked on harder challenges
-﻿
+
 ## Nishta Pant
 ﻿
 - Led development of story
 - Managed Facebook group
 - Helped with outreaching
+- Developed first prototype challenge
 ﻿
+## Ashwin Mahesh
+﻿
+- Led development of point system, worked on harder challenges
+
 ## Hussain Chitalwala
 ﻿
 - Led development of point system
