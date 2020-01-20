@@ -59,7 +59,14 @@ This challenge was designed and developed by a group of students at the Universi
 ## Mohana Talasila
 ﻿
 - Responsible for outreaching, connecting event with other clubs, etc.
-﻿
-## Tristan Laurence
-﻿
-- Assisted in point system
+
+## Special thanks to:
+- Chris Fetterly
+- Mi-Young Kim
+- Dorsa Nahid
+- Peter Berg
+- Laurence Amadeus Tristan
+- Ryan Jacques
+- Mariam Ayinde
+- Arnold Gihozo
+
