@@ -41,7 +41,7 @@ This challenge was designed and developed by a group of students at the Universi
 - Led development of story, point system, challenges
 - Responsible for outreach and connections on Augustana Campus
 
-## Nishta Pant
+## Nishtha Pant
 ﻿
 - Led development of story
 - Managed Facebook group
