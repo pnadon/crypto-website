@@ -39,4 +39,6 @@ Many members of your group have been attacked by aliens, however some have left 
 
 # Sponsors
 
-This challenge wouldn't be possible without the support from our sponsors. We will be filling in this section with a list of sponsors soon.
+This challenge wouldn't be possible without the support from our sponsors:
+
+{{< figure src="https://www.dropbox.com/s/m1c29g2y9tnjtvy/toucan.jpg?raw=1" title="Steve Francia" link="https://google.ca" >}}
