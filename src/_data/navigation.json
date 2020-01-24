@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "text": "About",
-      "url": "/about"
-    },
-    {
       "text": "Challenges",
       "url": "/archive",
       "external": false
@@ -13,6 +9,14 @@
       "text": "Resources",
       "url": "/resources",
       "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact/index.html"
     },
     {
       "text": "Admin",
