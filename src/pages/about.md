@@ -51,6 +51,9 @@ This challenge was designed and developed by a group of students at the Universi
 ## Ashwin Mahesh
 ﻿
 - Led development of point system, worked on harder challenges
+- Reached out to sponsors for prizes
+- Distributed promotional material at North Campus
+- Set up and managed the email system
 
 ## Hussain Chitalwala
 ﻿
