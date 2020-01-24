@@ -45,7 +45,7 @@ This challenge was designed and developed by a group of students at the Universi
 ﻿
 - Led development of story
 - Managed Facebook group
-- Helped with outreaching
+- Reached out to clubs and other organizations
 - Developed first prototype challenge
 ﻿
 ## Ashwin Mahesh
@@ -53,6 +53,7 @@ This challenge was designed and developed by a group of students at the Universi
 - Led development of point system, worked on harder challenges
 - Reached out to sponsors for prizes
 - Distributed promotional material at North Campus
+- Reached out to clubs and other organizations
 - Set up and managed the email system
 
 ## Hussain Chitalwala
@@ -61,7 +62,7 @@ This challenge was designed and developed by a group of students at the Universi
 ﻿
 ## Mohana Talasila
 ﻿
-- Responsible for outreaching, connecting event with other clubs, etc.
+- Helped with outreaching
 
 ## Special thanks to:
 - Chris Fetterly
