@@ -5,6 +5,10 @@ permalink: /about/index.html
 ---
 # Rules and Challenge Details
 
+## WARNING
+
+Do not share answers to problems. Doing so lowers your own chances of winning, as well as the chances of others who have earned their points in an honest manner. **Someone who is found to have obtained from or shared answers to someone else will be immediately disqualified!**
+
 ## Parts, Schedule
 
 The Cryptography Challenge is a collection of challenges related to cryptography. The distribution of said challenges is divided into three parts, each with a different number of sub-challenges:
