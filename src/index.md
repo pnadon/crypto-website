@@ -42,4 +42,4 @@ Many members of your group have been attacked by aliens, however some have left 
 This challenge wouldn't be possible without the support from our sponsors:
 
 ![CompuVision](images/Logo_CompuVision_Gray_RGB-01.jpg "CompuVision")
-[CompuVision Site](https://www.compuvision.biz)
+Learn more about CompuVision here: [www.compuvision.biz](https://www.compuvision.biz)
