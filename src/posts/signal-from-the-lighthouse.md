@@ -6,7 +6,7 @@ tags:
   - round_1
   - easy
 ---
-![](images/deserted_lighthouse.jpg)
+![](/images/deserted_lighthouse.jpg)
 
 # Challenge
 
