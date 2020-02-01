@@ -20,7 +20,7 @@ The next morning, you wake up and pack your things in preparation to continue yo
 
 `KZFQ QQXLYPFYXM JIJS GSQIIMX CEXNTIII XZPQII`
 
-Recalling your experience with cipher before the war broke out, you realize that this gibberish is probably an encrypted message, which requires a "key" to decipher. You pause in your journey to ponder how you could crack this code...
+Recalling your experience with ciphers before the war broke out, you realize that this gibberish is probably an encrypted message, which requires a "key" to decipher. You pause in your journey to ponder how you could crack this code...
 
 # Solving the Challenge
 
