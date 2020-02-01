@@ -18,7 +18,7 @@ You observe that the light from the lighthouse sweeps past your vision in a stra
 
 The next morning you wake up and pack your things in preparation to continue your journey. As you walk past the same spot where you observed the lighthouse last night, you notice its light is fixated on a small stone slab out in the dunes. Curious, you walk over and observe letters on the slab, however they don't appear to resemble anything meaningful:
 
-`KZFQ QQXLYPFYXM JIJS GSQIIMX CEXNTIII XZPQII`
+`KZFQ QQXLYPFYXM JIJS GSQIIMX CEXNT III XZPQII`
 
 Recalling your experience with ciphers before the war broke out, you realize that this gibberish is probably an encrypted message, which requires a "key" to decipher. You pause in your journey to ponder how you could crack this code...
 
