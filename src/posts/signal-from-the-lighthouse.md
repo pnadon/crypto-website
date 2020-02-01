@@ -6,7 +6,8 @@ tags:
   - round_1
   - easy
 ---
-![lighthouse](https://www.dropbox.com/s/siy8ynegyqvc066/deserted_lighthouse.jpg?raw=1)
+![](images/deserted_lighthouse.jpg)
+
 # Challenge
 
 You are one of the few remaining humans on Earth. On an uneventful night, you sit still and observe the dusty dunes of what used to be a lake; evaporated from the nuclear blasts. The light from the lighthouse far away on the hill looking out onto the dunes is the only distraction to your eyes.
