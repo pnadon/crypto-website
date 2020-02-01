@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Signal from the Lighthouse
-date: 2020-02-01T06:59:17.155Z
+date: 2020-02-01T06:30:00.000Z
 tags:
   - round_1
   - easy
