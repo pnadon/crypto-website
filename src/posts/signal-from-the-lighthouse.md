@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
 title: Signal from the Lighthouse
-date: 2020-01-05T16:38:17.155Z
+date: 2020-02-01T06:59:17.155Z
 tags:
-  - February
+  - round_1
   - easy
 ---
 ![lighthouse](https://www.dropbox.com/s/siy8ynegyqvc066/deserted_lighthouse.jpg?raw=1)
