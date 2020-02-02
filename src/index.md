@@ -23,7 +23,7 @@ Also check out the [the About page](/about) for details on how the challenge is 
 
 # Story
 
-## Back Story
+## Backstory
 
 These challenges follow the story of a doomed Earth, years after aliens attempted to harvest resources off of our planet but were met with nuclear war. The war destroyed all forms of modern computers and most electrical components, and so civilization was reduced to post-apocalyptic scavengers.
 
