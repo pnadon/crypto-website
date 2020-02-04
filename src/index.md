@@ -43,3 +43,6 @@ This challenge wouldn't be possible without the support from our sponsors:
 
 ![CompuVision](images/Logo_CompuVision_Gray_RGB-01.jpg "CompuVision")
 Learn more about CompuVision here: [www.compuvision.biz](https://www.compuvision.biz)
+
+![TeejLab](images/TeejLab.png "TeejLab")
+Learn more about TeejLab here: [https://teejlab.com/](https://teejlab.com/)
