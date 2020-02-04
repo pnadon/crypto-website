@@ -23,7 +23,6 @@ Example:
 
 # Homophonic Substitution Cipher
 
-[Link to how it works](http://pi.math.cornell.edu/~mec/2003-2004/cryptography/polyalpha/polyalpha.html)
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/homophonic-substitution/)
 
 Example:
