@@ -45,4 +45,4 @@ This challenge wouldn't be possible without the support from our sponsors:
 Learn more about CompuVision here: [www.compuvision.biz](https://www.compuvision.biz)
 
 ![TeejLab](images/TeejLab.png "TeejLab")
-Learn more about TeejLab here: [https://teejlab.com/](https://teejlab.com/)
+Learn more about API Discovery here: [https://apidiscovery.com/](https://apidiscovery.com/)
