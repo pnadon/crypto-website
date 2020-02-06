@@ -46,3 +46,5 @@ Learn more about CompuVision here: [www.compuvision.biz](https://www.compuvision
 
 ![TeejLab](images/TeejLab.png "TeejLab")
 Learn more about API Discovery here: [https://apidiscovery.com/](https://apidiscovery.com/)
+
+![Certicom](images/Logo_RGB_CERTICOM.png "Certicom")
