@@ -69,8 +69,8 @@ D| r c v s z
 E| w b u t i
 ```
 
-* Ciphertext: `defend the east wall of the castle`
-* Message: `CCBACBBABECC EDABBA BABBDDED EABBBDBD CACB EDABBA DBBBDDEDBDBA`
+* Ciphertext: `defendtheeastwallofthecastle`
+* Message: `CC BA CB BA BE CC ED AB BA BA BB DD ED EA BB BD BD CA CB ED AB BA DB BB DD ED BD BA`
 
 # Fractionated Morse Cipher
 
