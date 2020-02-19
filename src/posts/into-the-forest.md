@@ -34,3 +34,5 @@ Something’s weird about that photo, eh? Confused as to how to proceed with thi
 
 **Hint: one of the ciphers used are *not* listed in the [Resources](/resources) page! Look for clues, and use a search engine to research the solution!**
 
+Submit your answer [here](https://forms.gle/UYAQ8TM3Es3Pim7k7)
+
