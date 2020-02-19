@@ -32,5 +32,5 @@ The sign appears to have a weird line of characters in it’s lower-right corner
 
 Something’s weird about that photo, eh? Confused as to how to proceed with this information, you confer with the other surviving members and try to crack what the code could mean…
 
-**Hint: one of the ciphers used are *not* listed in the [Resources](/resources) page!**
+**Hint: one of the ciphers used are *not* listed in the [Resources](/resources) page! Look for clues, and use a search engine to research the solution!**
 
