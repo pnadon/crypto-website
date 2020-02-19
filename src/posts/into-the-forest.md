@@ -20,7 +20,7 @@ Just below the writing is a weird drawing, carved deep into the tree:
 
 ![](/images/railfence.jpg)
 
-"Yep, that old man is nuts!" Another member adds, laughing. "Hold on..." You reply, "Maybe we could check it out. Who knows, The old man could know something we don't!"
+"Yep, that old man is nuts!" Another member adds, laughing. "Hold on..." You reply, "Maybe we could check it out. Who knows, the old man could know something we don't!"
 
 Since there is currently nothing else to do, you team decides to pursue this idea. You wonder what the message signifies and keep a record of it in your journal. You continue going deeper into the forest and come across a small clear area without trees or plantation. It is midday now and the sun is right above you. You see the sunlight pointing towards the centre of the clearing as if almost made to do so. You go to the centre and find an oddly out-of-place sign:
 
