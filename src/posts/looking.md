@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Looking '
+title: Looking Towards the Sky
 date: 2020-02-20T04:26:41.273Z
 tags:
   - round_2
@@ -20,7 +20,7 @@ You go closer to the number plate and see a set of 6 characters changing in the 
 
 `74SDL7...Z4SDLZ...ZRSDLZ...ZRS9LZ...`
 
-You sit there, holding his body. Your team has lost all hope of accomplishing their mission, you are desperately trying to figure out the meaning behind Doc Vader’s words, when you notice something in his clenched fist. It's a piece of paper, with a message! It says:
+You sit there, holding his body. Your team has lost all hope of accomplishing their mission, you are desperately trying to figure out the meaning behind Doc. Vader’s words, when you notice something in his clenched fist. It's a piece of paper, with a message! It says:
 
 `B0JE 2QR N8ST H6N T2`
 
