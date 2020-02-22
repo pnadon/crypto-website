@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Signal from the Lighthouse - UPDATED AFTERWARD STORY
+title: Signal from the Lighthouse - UPDATED WITH ANSWERS
 date: 2020-02-01T06:30:00.000Z
 tags:
   - round_1
@@ -9,6 +9,8 @@ tags:
 ![](/images/deserted_lighthouse.jpg)
 
 # Challenge
+
+**THE CHALLENGE IS NOW CLOSED, READ ON TO SEE THE ANSWERS!**
 
 You are one of the few remaining humans on Earth. On an uneventful night, you sit still and observe the dusty dunes of what used to be a lake; evaporated from the nuclear blasts. The light from the lighthouse far away on the hill looking out onto the dunes is the only distraction to your eyes.
 
