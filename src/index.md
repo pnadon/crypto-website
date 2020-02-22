@@ -11,7 +11,13 @@ Make sure to also join our [Facebook group](https://www.facebook.com/groups/7779
 
 # Leaderboard
 
-`The leaderboard is currently not available, check back after Part 1 is done!`
+Since Round 1 only consisted of an Easy challenge, most people who submitted got full marks (as intended). Thus, for Round 1 we will do things slightly differently by just showing the results. 
+
+Once Round 2 ends we will replace this content with a point distribution, and top scorers.
+
+![](/images/results/round11.jpg)
+![](/images/results/round12.jpg)
+![](/images/results/round13.jpg)
 
 # Introduction
 
