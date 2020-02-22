@@ -15,9 +15,9 @@ Since Round 1 only consisted of an Easy challenge, most people who submitted got
 
 Once Round 2 ends we will replace this content with a point distribution, and top scorers.
 
-![](/images/results/round11.jpg)
-![](/images/results/round12.jpg)
-![](/images/results/round13.jpg)
+![](/images/results/11.jpg)
+![](/images/results/12.jpg)
+![](/images/results/13.jpg)
 
 # Introduction
 
