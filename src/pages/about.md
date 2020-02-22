@@ -9,13 +9,13 @@ permalink: /about/index.html
 
 Do not share answers to problems. Doing so lowers your own chances of winning, as well as the chances of others who have earned their points in an honest manner. **Someone who is found to have obtained from or shared answers to someone else will be immediately disqualified!**
 
-## Parts, Schedule
+## Rounds, Schedule
 
-The Cryptography Challenge is a collection of challenges related to cryptography. The distribution of said challenges is divided into three parts, each with a different number of sub-challenges:
+The Cryptography Challenge is a collection of challenges related to cryptography. The distribution of said challenges is divided into three rounds, each with a different number of sub-challenges:
 
-* Part 1 runs from February 1st to February 22nd and offers an Easy-level challenge.
-* Part 2 runs from February 22nd to March 14 and offers both an Easy and Medium-level challenge.
-* Part 3 runs from March 14 to April 4 and offers an Easy, Medium, and Hard challenge.
+* Round 1 runs from February 1st to February 22nd and offers an Easy-level challenge.
+* Round 2 runs from February 22nd to March 14 and offers both an Easy and Medium-level challenge.
+* Round 3 runs from March 14 to April 4 and offers an Easy, Medium, and Hard challenge.
 
 ## Description
 
