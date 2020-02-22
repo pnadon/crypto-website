@@ -45,30 +45,35 @@ This challenge was designed and developed by a group of students at the Universi
 * Designed visuals for challenges, posters
 * Built and maintained website (hosting, deployment, publishing)
 * Led development of story, point system, challenges
+* Worked on Round 1 - Easy, and Round 3 - Medium
 * Responsible for outreach and connections on Augustana Campus
-
-## Nishtha Pant
-
-* Led development of story
-* Managed Facebook group
-* Reached out to clubs and other organizations
-* Developed first prototype challenge
+* Connected with sponsors
 
 ## Ashwin Mahesh
 
-* Led development of point system, worked on harder challenges
+* Led development of point system, worked on Round 2 - Easy, and Round 3 - Hard
 * Reached out to sponsors for prizes
 * Distributed promotional material at North Campus
 * Reached out to clubs and other organizations
 * Set up and managed the email system
+* Managed points, submissions
+
+## Nishtha Pant
+
+* Worked on Round 2, Easy
+* Managed Facebook group
+* Reached out to clubs and other organizations
+* Developed first prototype challenge
 
 ## Hussain Chitalwala
 
 * Led development of point system
+* Worked on Round 2 - Medium
 
 ## Mohana Talasila
 
 * Helped with outreaching
+* Worked on Round 3 - Easy
 
 ## Special thanks to:
 
