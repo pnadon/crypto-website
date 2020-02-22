@@ -60,7 +60,7 @@ This challenge was designed and developed by a group of students at the Universi
 
 ## Nishtha Pant
 
-* Worked on Round 2, Easy
+* Worked on Round 2 - Easy
 * Managed Facebook group
 * Reached out to clubs and other organizations
 * Developed first prototype challenge
