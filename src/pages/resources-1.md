@@ -45,6 +45,10 @@ Example:
 * Message: `DEFEND THE EAST WALL OF THE CASTLE`
 * Ciphertext: `F7EZ5F UC2 1DR6 M9PP 0E 6CZ SD4UP1`
 
+## Smithy Code
+[Link to what it is and how it works (Wikipedia)](https://en.wikipedia.org/wiki/Smithy_code)
+[Link to what it is and how it works (enacademic)](https://enacademic.com/dic.nsf/enwiki/2423438)
+
 ## Baconian Cipher
 
 [Link to what it is and how it works](http://practicalcryptography.com/ciphers/classical-era/baconian/)
