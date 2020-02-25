@@ -30,4 +30,6 @@ It doesn’t make any sense at all. However, this piece of information is your l
 
 **MAKE SURE TO LOOK AT THE [RESOURCES](/resources) SECTION OF THE WEBSITE!**
 
+The *two* ciphers used in this challenge are in the resources section, but one has been modified! This is to prevent people from easily using online tools, and requires a bit more thinking to solve! 
+
 You can submit your answers [here](https://forms.gle/c8Fu5AgetSNLQyaF9)
