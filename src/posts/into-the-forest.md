@@ -30,9 +30,11 @@ The sign appears to have a weird line of characters in its lower-right corner:
 
 `KBGIH DKHFDIBF LGHF NBKCM BGHI`
 
-Something’s weird about that photo, eh? Confused as to how to proceed with this information, you confer with the other surviving members and try to crack what the code could mean…
+Something’s weird about that sign, eh? Confused as to how to proceed with this information, you confer with the other surviving members and try to crack what the code could mean…
 
 **Hint: one of the ciphers used are *not* listed in the [Resources](/resources) page! Look for clues, and use a search engine to research the solution!**
+
+**Hint #2: Since this is a medium challenge, we wouldn't give out a key in plain sight, try to interprete the subtle message that the clue is giving you, which offers crucial information for one of the ciphers!**
 
 Submit your answer [here](https://forms.gle/UYAQ8TM3Es3Pim7k7)
 
