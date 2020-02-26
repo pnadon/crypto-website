@@ -22,11 +22,11 @@ Just below the writing is a weird drawing, carved deep into the tree:
 
 "Yep, that old man is nuts!" Another member adds, laughing. "Hold on..." You reply, "Maybe we could check it out. Who knows, the old man could know something we don't!"
 
-Since there is currently nothing else to do, you team decides to pursue this idea. You wonder what the message signifies and keep a record of it in your journal. You continue going deeper into the forest and come across a small clear area without trees or plantation. It is midday now and the sun is right above you. You see the sunlight pointing towards the centre of the clearing as if almost made to do so. You go to the centre and find an oddly out-of-place sign:
+Since there is currently nothing else to do, your team decides to pursue this idea. You wonder what the message signifies and keep a record of it in your journal. You continue going deeper into the forest and come across a small clear area without trees or plantation. It is midday now and the sun is right above you. You see the sunlight pointing towards the centre of the clearing as if almost made to do so. You go to the centre and find an oddly out-of-place sign:
 
 ![](/images/amazon_logo.jpg)
 
-The sign appears to have a weird line of characters in it’s lower-right corner:
+The sign appears to have a weird line of characters in its lower-right corner:
 
 `KBGIH DKHFDIBF LGHF NBKCM BGHI`
 
