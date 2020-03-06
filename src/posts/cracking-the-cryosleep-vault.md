@@ -6,7 +6,7 @@ tags:
   - round_3
   - medium
 ---
-![](images/cryosleep_capsule.jpg)
+![](/images/cryosleep_capsule.jpg)
 
 # Challenge
 
