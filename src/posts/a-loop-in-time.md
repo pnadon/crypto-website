@@ -6,7 +6,7 @@ tags:
   - round_3
   - easy
 ---
-![](images/round_3_easy.jpg)
+![](/images/round_3_easy.jpg)
 
 # Challenge
 
