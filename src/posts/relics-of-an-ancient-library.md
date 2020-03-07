@@ -6,7 +6,7 @@ tags:
   - round_3
   - hard
 ---
-![](/images/fuel.jpg)
+![](https://i.pinimg.com/originals/86/57/13/8657132b076c9d91823c1329584d934b.jpg)
 
 # Challenge
 
