@@ -14,7 +14,7 @@ Do not share answers to problems. Doing so lowers your own chances of winning, a
 The Cryptography Challenge is a collection of challenges related to cryptography. The distribution of said challenges is divided into three rounds, each with a different number of sub-challenges:
 
 * Round 1 runs from February 1st to February 22nd and offers an Easy-level challenge.
-* Round 2 runs from February 22nd to March 14 and offers both an Easy and Medium-level challenge.
+* Round 2 runs from February 22nd to March 14 and offers both an Easy and Medium-level challenge. **Was extended to March 16th**.
 * Round 3 runs from March 14 to April 4 and offers an Easy, Medium, and Hard challenge.
 
 ## Description
