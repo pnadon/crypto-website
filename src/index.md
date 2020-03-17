@@ -11,13 +11,11 @@ Make sure to also join our [Facebook group](https://www.facebook.com/groups/7779
 
 # Leaderboard
 
-Since Round 1 only consisted of an Easy challenge, most people who submitted got full marks (as intended). Thus, for Round 1 we will do things slightly differently by just showing the results. 
+Rounds 1 and 2 have ended, and so we can now show everyone who's at the lead! Keep in mind that Round 3 has **far more** points (66) than Round 1 (10) and 2 (26) **combined**, and as long as you have earned 36 points by the end of the challenge, you will have a chance to win a prize!
 
-Once Round 2 ends we will replace this content with a point distribution, and top scorers.
+You can take a look at the leaderboard **[here](https://crypto-challenge-points-chart.now.sh/)** (scores of 10 points or lower were not included).
 
-![](/images/results/11.jpg)
-![](/images/results/12.jpg)
-![](/images/results/13.jpg)
+*Remember, even if you won't get full points, attempting the challenges anyways for partial points will still land you in a far more advantageous position! As an example, each question in the Hard challenge form is worth at least 5 points!!*
 
 # Introduction
 
