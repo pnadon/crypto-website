@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Into the Forest - DEADLINE EXTENDED TO MARCH 16 11PM
+title: Into the Forest  - UPDATED WITH ANSWERS
 date: 2020-02-22T07:02:51.261Z
 tags:
   - round_2
@@ -32,9 +32,16 @@ The sign appears to have a weird line of characters in its lower-right corner:
 
 "I know it's been a while since Amazon was around, but there's something weird about this Amazon logo, something different..." You say. Confused as to how to proceed with this information, you confer with the other surviving members and try to crack what the code could mean…
 
-**Hint: one of the ciphers used are *not* listed in the [Resources](/resources) page! Look for clues, and use a search engine to research the solution!**
+# Afterward
 
-**Hint #2: Since this is a medium challenge, we wouldn't give out a key in plain sight, try to interpret the subtle message that the clue is giving you, which offers crucial information for one of the ciphers!**
+You see the photo of the rail tracks and notice there are 7 tracks in it. You realize the first message is likely a **Railfence Cipher** with a key of `7`. Decoding the cipher, you get:
 
-Submit your answer [here](https://forms.gle/UYAQ8TM3Es3Pim7k7)
+`A INVERSE IS FIVE TEN IS THE VALUE OF B`
 
+You and your fellow humans get down to work and notice that the 2 keys (a^-1 = 5 and b = 10) most likely correspond to an `Affine Cipher`. Using the provided photo, you take the hint that **only letters from A to N** are used in this cipher and it uses **mod 14 instead of mod 26**. You do the necessary calculations and after a serious amount of work, you get:
+
+`ALIEN HANDHELD FIND BLACK LINE`
+
+You open the alien handheld device and notice that it is picking up some weird distortions, which appear as wavy lines of a multitude of colours, one of which is a faint, black line. You begin following the black line, and as the line gets thicker you reach a crater like clearing. After you clear the last few bushes between you and the valley, you see a large shed-like object. As you approach it, the alien handheld flies away from your hand and gets attached to the outside of the hangar while simultaneously unlocking it.
+
+You look inside and see what appears to be a spaceship, one like you have never seen before. You enter the spaceship and try to start it. Unfortunately the spaceship beeps and a gauge-cluster shows multiple missing items. The cryo-sleep capsules that could help long-distance travel are one of the many things missing. You look around in the hangar and find many broken items including a few fuel capsules that are empty. Rejoiced by this, a tiny sliver of hope awakens in your group and you contemplate your next steps. 
