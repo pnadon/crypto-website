@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Secret in the Abandoned City - DEADLINE EXTENDED TO MARCH 16 11PM
+title: Secret in the Abandoned City - UPDATED WITH ANSWERS
 date: 2020-02-22T07:01:41.273Z
 tags:
   - round_2
@@ -32,10 +32,38 @@ After a moment of silence, you open his hand and find a ciphertext written on it
 
 It doesn’t make any sense at all. However, this piece of information is your last hope. Now you and your teammates have to find a way to decode this message and accomplish your mission.
 
-# Solving the Challenge
+# Afterward
 
-**MAKE SURE TO LOOK AT THE [RESOURCES](/resources) SECTION OF THE WEBSITE!**
+You have two encrypted messages to solve and one clue each to solve them. You need to work step by step to get the information you need. 
 
-The *two* ciphers used in this challenge are in the resources section, but one has been modified! This is to prevent people from easily using online tools, and requires a bit more thinking to solve! The tweak we have made is given as a hint from Doc. Vader in the challenge.
+Firstly, you have,
 
-You can submit your answers [here](https://forms.gle/c8Fu5AgetSNLQyaF9)
+`74SDL7...Z4SDLZ...ZRSDLZ...ZRS9LZ...`
+
+Doc Vader had indicated that the number plate changes, yet remains the same. You realize that all these combinations of numbers and letters are indeed the same. They are encrypted using the Homophonic cypher!
+
+Using the table, you got the following:
+
+```
+7, Z → E
+4, R → S
+S →    C
+D, 9 → A
+L →    P
+7, Z → E
+```
+
+Decrypted Key is: `E S C A P E `
+
+The next clue you have is:
+
+> “Not A to Z... From A to T, then 0 to 9...”
+
+It sounds like Doc vader was trying to tell you that he had made some changes to a pre existing cipher to hide his message. Interesting… What cipher could originally use letters A to Z for decryption? You decide to try the Polyalphabetic vigenere cypher. Instead of using letters from A to Z, you use letters from A to T and then use numbers from 0 to 9 to make a table.
+
+With `ESCAPE` as key, you end up with the following decrypted message:
+
+`FILE H01 BASE LAB 12`
+
+Yes! Finally you and your team cracked the encryption and retrieved the whereabouts of the coordinates of the habitable planet! They are in `FILE H01` in the `BASE LAB 12` in the Abandoned City! You have accomplished your mission!
+
