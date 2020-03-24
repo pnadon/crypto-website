@@ -15,8 +15,8 @@ You and your fellow members of the Cryptography Project were taking a break, whe
 To screen out aliens, the members of the challenge are passing out a test which only humans should be able to understand, given that aliens don’t seem to understand ciphers very well. A member hands the challenge to you, which looks like the following:
 
 *It wa**s** the year 2020. **M**ost students were **i**nside on accoun**t** of t**h**e terribl**y** **co**l**d** w**e**ather.* 
-*The time was 17:03. It was already **q**uite **d**ark outside. The meeting fo**r** the cryptography club was running late. At 17:05, when every**o**ne was about to leave the rende**z**vous, an unu**s**ual thin**g** happened. All the **f**ire alarm**s** on campus went off at once, everyone's phones started buzzing fro**m** the emer**g**ency alert that was broa**d**casted. The pani**c** was visib**l**e on everyone's faces.*
-*The time's 17:06, the power went off, unsettling d**a**rkness fille**d** every corner and nook of the city. The **d**rea**d**ful n**o**ir was prevale**nt** throughout the **sub**urbs, **t**o**r**menting those who l**ac**ked ba**t**teries.*
+*It was already **q**uite **d**ark outside. The meeting fo**r** the cryptography club was running late. When every**o**ne was about to leave the rende**z**vous, an unu**s**ual thin**g** happened. All the **f**ire alarm**s** on campus went off at once, everyone's phones started buzzing fro**m** the emer**g**ency alert that was broa**d**cast. The pani**c** was visib**l**e on everyone's faces.*
+*The power went off, unsettling d**a**rkness fille**d** every corner and nook of the city. The **d**rea**d**ful n**o**ir was prevale**nt** throughout the **sub**urbs, **t**o**r**menting those who l**ac**ked ba**t**teries.*
 
 # Solving the Challenge
 
