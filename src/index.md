@@ -9,7 +9,7 @@ socialImage: ''
 
 The Cryptography Challenge has now ended! Congratulations Varun Bhatt for winning first place!
 
-![](/images/leaderboard.jpg)
+![](/images/leaderboard.png)
 
 You can take a look at the responsive version of the leaderboard **[here](https://crypto-challenge-points-chart.now.sh/)** (scores of 10 points or lower were not included).
 
