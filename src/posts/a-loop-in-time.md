@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: A Loop In Time
+title: A Loop In Time - UPDATED WITH ANSWERS
 date: 2020-03-15T02:31:44.226Z
 tags:
   - round_3
@@ -18,8 +18,25 @@ To screen out aliens, the members of the challenge are passing out a test which 
 *It was already **q**uite **d**ark outside. The meeting fo**r** the cryptography club was running late. When every**o**ne was about to leave the rende**z**vous, an unu**s**ual thin**g** happened. All the **f**ire alarm**s** on campus went off at once, everyone's phones started buzzing fro**m** the emer**g**ency alert that was broa**d**cast. The pani**c** was visib**l**e on everyone's faces.*
 *The power went off, unsettling d**a**rkness fille**d** every corner and nook of the city. The **d**rea**d**ful n**o**ir was prevale**nt** throughout the **sub**urbs, **t**o**r**menting those who l**ac**ked ba**t**teries.*
 
-# Solving the Challenge
+# Afterward
 
-Hint: Look at the text carefully, it should give you a hint as to where to start! (You will have to perform a quick Google search, but the first result will likely be what you’re looking for)
+As you read over the challenge, you see that certain letters are bolded and stand out from among the other letters. You then realize that this could be a message that was hidden using a variant of Beaufort cipher (the “Smithy Code”), created by judge Smithy in the judgment trial for The Da Vinci Code. You write down all the letters which appear bolded, and see the message:
 
-You can submit your answers [here](https://forms.gle/fLUu2dZ4JkQcpUfK8)
+`smithycodeqdrozsgfsmgdcladddontsubtract`
+
+This seems to form the phrase 
+
+```
+smithy code
+qdrozsg fs mgdcl
+add dont subtract
+```
+
+The Smithy Code works by offsetting the letters in the encrypted message using the fibonacci sequence which (if you wanted to decipher the message) you would subtract from the encrypted letter. In this case however, the message seemed to hint at the opposite, and after following these steps you ended up with:
+
+`RETREAT AT NIGHT` 
+
+Clearly, this is a message which hints that the Cryptography Project team should escape tonight, leaving any aliens who couldn’t solve the challenge behind.
+
+The following morning, the group is short of one member, indicating the presence of an alien who was unable to solve the SMITHY CODE.
+
