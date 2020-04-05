@@ -97,6 +97,6 @@ Example:
 * Message: `defend the east`
 * Ciphertext: `-..x.x..-.x.x-.x-..xx-x....x.xx.x.-x...x-x`
 
-# Other
-## Magic Square
-[Link to what it is and how it works](https://en.wikipedia.org/wiki/Magic_square)
+# Ciphers that were not mentioned during the challenge:
+- Railfence Cipher
+- Telephone Cipher
