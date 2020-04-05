@@ -5,10 +5,6 @@ postsHeading: Latest Challenges
 archiveButtonText: See all challenges
 socialImage: ''
 ---
-If you haven't already, sign up with this link: [bit.ly/uoacrypto](https://bit.ly/uoacrypto)!
-
-Make sure to also join our [Facebook group](https://www.facebook.com/groups/777939186010323/)!
-
 # Leaderboard
 
 The Cryptography Challenge has now ended! Congratulations Varun Bhatt for winning first place!
