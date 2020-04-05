@@ -5,19 +5,15 @@ postsHeading: Latest Challenges
 archiveButtonText: See all challenges
 socialImage: ''
 ---
-If you haven't already, sign up with this link: [bit.ly/uoacrypto](https://bit.ly/uoacrypto)!
-
-Make sure to also join our [Facebook group](https://www.facebook.com/groups/777939186010323/)!
-
 # Leaderboard
 
-Rounds 1 and 2 have ended, and so we can now show everyone who's at the lead! Keep in mind that Round 3 has **far more** points (66) than Round 1 (10) and 2 (26) **combined**, and as long as you have earned 36 points by the end of the challenge, you will have a chance to win a prize!
+The Cryptography Challenge has now ended! Congratulations Varun Bhatt for winning first place!
 
-![](/images/round_1_2_leaderboard.jpg)
+![](/images/leaderboard.png)
 
 You can take a look at the responsive version of the leaderboard **[here](https://crypto-challenge-points-chart.now.sh/)** (scores of 10 points or lower were not included).
 
-*Remember, even if you won't get full points, attempting the challenges anyways for partial points will still land you in a far more advantageous position! As an example, each question in the Hard challenge form is worth at least 5 points!!*
+*Please take a look at the [About Section](/about/) for information on how prizes will be distributed! Due to COVID-19 we have had to make some changes.*
 
 # Introduction
 
