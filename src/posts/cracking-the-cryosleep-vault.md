@@ -37,7 +37,7 @@ You begin to write out numbers corresponding to the evenness or oddness of the l
 
 `10100 01000 01010 00011 10000 01101 10001 00100`
 
-This sequence happened to correspond to the word “WILDROSE”
+Using the Baconian Cipher, this sequence happened to correspond to the word “WILDROSE”
 
 > “Wildrose”
 
