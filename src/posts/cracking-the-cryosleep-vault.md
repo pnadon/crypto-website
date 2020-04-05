@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Cracking the Cryosleep Vault
+title: Cracking the Cryosleep Vault - UPDATED WITH ANSWERS
 date: 2020-03-15T02:32:10.268Z
 tags:
   - round_3
@@ -27,8 +27,39 @@ Followed by a strange sequence of numbers:
 
 Determined to crack this puzzle, you sit down and begin to think…
 
-# Solving the Challenge
+# Afterward
 
-Hint: The examples are not always the *only* way to use a cipher!
+After reading the message over and over, you think over the meaning of “even that oddness must mean somethin’”. 
 
-You may submit your answers [here](https://forms.gle/9XZ6Aos9uf3m1U2K9)
+> Why is ‘somethin’ spelled so weirdly? Although strangely worded, this appears like a normal phrase, maybe something is encoded into a pattern within the sentence? Even, oddness… maybe it’s a pattern of even and odd-length words…? If there is one cipher I would use to encode a binary pattern, it would be Bacon’s cipher!
+
+You begin to write out numbers corresponding to the evenness or oddness of the length of the words, 0 for even, 1 for odd:
+
+`10100 01000 01010 00011 10000 01101 10001 00100`
+
+This sequence happened to correspond to the word “WILDROSE”
+
+> “Wildrose”
+
+You say out loud, but nothing happens. 
+
+>Hmmm, maybe it’s the key for that sequence of numbers below…
+
+The numbers appears to be grouped into pairs of two, presumably each representing a letter.
+
+> All the numbers seem to range from 1-5, and since they are in pairs, this does resemble the Polybius Cipher quite a bit. Let’s see if I can decipher these numbers using this key.
+
+The “WILDROSE” key translates into the alphabet:
+
+`WILDROSEABCFGHKMNPQTUVXYZ`
+
+You then place the letters into a 5x5 grid, where the row number corresponds to the first number, and the column number corresponds to the second. Applying this to the encoded message results in the word:
+
+`lodgepolepine`
+
+>"Lodgepole pine” 
+
+You say out loud. Suddenly, you start to hear a rumbling, and the door to the vault begins to open. You did it! You quickly switch the lever to close the door again, and then begin heading back to the secret base of the Cryptography Project so that you may begin moving the cryosleep capsules to your ship.
+
+
+
