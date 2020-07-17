@@ -5,6 +5,8 @@ permalink: /resources/index.html
 ---
 Here is a list of resources for the challenges: All of the ciphers used in the challenge are listed here, but not all ciphers listed here are part of the challenge! If you are struggling with a particular challenge, make sure to come visit this page! *There are also many online tools and resources that you can find on these ciphers, using search engines such as Google!*
 
+To get you started, you may find a list of commonly used terms [here](https://unscrambler.co/codes-cipher-terminology/).
+
 # Ciphers
 ## Morse Code
 
